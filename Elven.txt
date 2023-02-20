@@ -1,0 +1,84 @@
+-Ael
+-Aer
+-af
+-ah
+-am
+-ama
+-an
+-ang +v
+-ansr +v
+-cael
+-dae +c
+-dho
+-eir
+-ev
+-fi
+-fir
+-fis
+-gar
+-gil
+-ha
+-hu
+-ka
+-kan
+-la
+-lue +c
+-mai +c
+-mara
+-ny
+-seh
+-sel
+-she
+-sum
+-syl
+-ya
+-za
+-zy
+ae +c -c
+ael -c
+dar
+deth +v
+dre -v
+drim -v
+dul
+ean -c
+el
+emar
+hal
+iat -c
+mah
+que -v +c
+ria
+rail
+san
+ten
+ther
+thus
+thi
++ael -c
++ath
++dar
++deth
++dre
++drim
++dul
++ean -c
++el
++emar
++ess
++evar
++hal
++iat
++las
++lian
++mah
++nes
++nin
++oth
++ran
++san
++ten
++ther
++thus
++thi
++yth
